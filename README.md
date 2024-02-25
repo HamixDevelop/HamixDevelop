@@ -14,8 +14,8 @@
 
 <h2 align="left">Contact Me:</h2>
 
-<h3 align="center">Tell:0049-1728308799 </h3>
-<h3 align="center"> <a href="hamix.develop@gmail.com"> E-mail<a><h3> 
+<h3 align="center">0049-1728308799 </h3>
+<h3 align="center"> <a href="hamix.develop@gmail.com"> hamix.develop@gmail.com <a><h3> 
 
 
 
