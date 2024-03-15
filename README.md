@@ -4,7 +4,8 @@
 
 <h2 align="center">Hello! I'm Hamix Develop</h2>
 
-<h3 align="center">I am a programmer and producer of visual and advertising content.</h3>
+<h3 align="center">I am a programmer and producer of visual and advertising content.</h3><hr>
+<h5 align="center">You can see my documents in the Repository</h5>
 
 <h1 align="left">The skills and tools I employ include:</h1>
 
